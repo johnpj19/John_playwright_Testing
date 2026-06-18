@@ -1,5 +1,4 @@
-# 1Global-QA-Challenge
-Repository specifically for UI automation challenge 
+
 
 # Playwright Automation Challenge:
 - This repository contains an automated test suite designed to verify eSIM data plans for BetterRoaming.
